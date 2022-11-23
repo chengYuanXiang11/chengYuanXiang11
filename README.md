@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me:
+- 社畜一枚👯 
+- 前端练习生 FE
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengYuanXiang11&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
